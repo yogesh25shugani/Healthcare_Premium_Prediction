@@ -117,27 +117,6 @@ Duplicate records were removed.
 Categorical variables were converted into dummy variables.
 
 
-project/
-│
-├── artifacts/
-│ ├── model_young.pkl
-│ ├── model_rest.pkl
-│ ├── scaler_young.pkl
-│ └── scaler_rest.pkl
-│
-├── notebooks/
-│ └── EDA_and_model_training.ipynb
-│
-├── src/
-│ └── prediction_pipeline.py
-│
-├── app.py
-├── requirements.txt
-└── README.md
-
-
----
-
 ## Installation
 
 Clone the repository:
