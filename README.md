@@ -82,7 +82,6 @@ Age ≤ 25
 
 ### Rest Population
 
-## Project Structure
 Age > 25
 
 
